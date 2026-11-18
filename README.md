@@ -10,7 +10,7 @@ snapshots and analysis.
 
 | Required item | Location |
 | --- | --- |
-| Word report with all before/after snapshots and analysis | [lab9_Nathalio_Hassoun.docx](lab9_Nathalio_Hassoun.docx) |
+| Word report with all before/after snapshots and analysis | [Report_with_screenshots.docx](Report_with_screenshots.docx) |
 | Complete submission including raw logs and screenshots | [Lab9_Submission.zip](Lab9_Submission.zip) |
 | Original four code files | [before/](before/) |
 | Optimized four code files | [after/](after/) |
